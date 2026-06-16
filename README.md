@@ -51,7 +51,3 @@ http://127.0.0.1:8050
 - plotly
 - dash
 - scipy / numpy
-
-## License
-
-Specify a license (e.g. MIT) if you intend to share this publicly.
