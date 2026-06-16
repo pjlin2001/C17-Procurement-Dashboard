@@ -42,3 +42,16 @@ supplier_pivot_path = "path/to/Supplier_Pivot.xlsx"
 ```
 
 Run all cells. The Dash app starts a local server:
+
+http://127.0.0.1:8050
+
+## Built With
+
+- pandas
+- plotly
+- dash
+- scipy / numpy
+
+## License
+
+Specify a license (e.g. MIT) if you intend to share this publicly.
